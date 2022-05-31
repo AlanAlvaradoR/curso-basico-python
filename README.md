@@ -9,4 +9,4 @@ En este curso aprenderás a programar en python.
 
 ------------------------------
 
-![Logo de python](imagenes\python200.png)
+![Logo de python](https://github.com/AlanAlvaradoR/curso-basico-python/blob/main/imagenes/python200.png)
