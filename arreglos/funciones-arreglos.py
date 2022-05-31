@@ -34,3 +34,12 @@ print(lista)
 
 lista.sort(reverse=True)  #Otra forma de invertir una lista
 print(lista)
+
+lista2 = lista.copy() #Copiar una lista (superficial, no funciona con sub-elementos)
+print(lista)
+
+lista.clear() #Limpiar la lista
+print(lista)
+
+lista2 = [] #Crear una lista vacia o la puede limpiar xd
+print(lista2)

@@ -7,7 +7,7 @@ stack.append(7)
 
 print(stack)
 
-stack.pop()
+stack.pop() #Como no se le da un valor, saca el último valor
 print(stack)
 
 stack.pop()
